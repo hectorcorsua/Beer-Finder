@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeerFinder</string>
+    <string name="hidden_search_beer">Beer\'s name to search</string>
+    <string name="beer_abv">ABV:</string>
+    <string name="beer_ibu">IBU:</string>
+    <string name="beer_ebc">EBC:</string>
+    <string name="beer_srm">SRM:</string>
+    <string name="beer_ph">PH:</string>
+    <string name="beer_image_description">Beer Image</string>
+    <string name="get_beer_detail_error">Error to get beer\'s detail. %1$s</string>
+    <string name="get_beer_list_error">Error to get beer list. %1$s</string>
+</resources>
